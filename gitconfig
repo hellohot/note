@@ -1,0 +1,6 @@
+[user]
+	name = Peter Wang
+	email = happypeter1983@gmail.com
+[alias]
+        ci = commit -a -m
+	    throwh = reset --hard HEAD^
